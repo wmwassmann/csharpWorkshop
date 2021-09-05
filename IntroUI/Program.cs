@@ -10,15 +10,21 @@ namespace IntroUI
             PersonModel p = new PersonModel
             {
                 FirstName = "William",
-                LastName = "Wassmann"
+                LastName = "Wassmann",
+                Age = 30
             };
 
-            System.Console.WriteLine($"{ p.FirstName } {p.LastName } is my name");
-            System.Console.WriteLine(p.FirstName);
+            CatModel c = new CatModel
+            {
+                Name = "Biscuit",
+                Age = 8,
+                Color = "black",
+                Breed = "English Short-hair"
+            };
 
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("This is a test");
-            Console.WriteLine("This is the end");
+            System.Console.WriteLine($"{ p.FirstName } {p.LastName } is my name and I am { p.Age } years old");
+            System.Console.WriteLine($"I have a cat named { c.Name }. He\'s an { c.Age } { c.Color} { c.Breed}");
+                     
         }
     }
 }

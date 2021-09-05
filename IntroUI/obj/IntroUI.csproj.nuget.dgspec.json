@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\CodeWorkshop\\csharp\\IntroUI\\IntroUI.csproj": {}
+    "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroUI\\IntroUI.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\IntroLibrary.csproj": {
+    "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\IntroLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\IntroLibrary.csproj",
+        "projectUniqueName": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\IntroLibrary.csproj",
         "projectName": "IntroLibrary",
-        "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\IntroLibrary.csproj",
+        "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\IntroLibrary.csproj",
         "packagesPath": "C:\\Users\\WMWas\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\obj\\",
+        "outputPath": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WMWas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "E:\\Coding\\CodeWorkshop\\csharp\\IntroUI\\IntroUI.csproj": {
+    "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroUI\\IntroUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\CodeWorkshop\\csharp\\IntroUI\\IntroUI.csproj",
+        "projectUniqueName": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroUI\\IntroUI.csproj",
         "projectName": "IntroUI",
-        "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\IntroUI\\IntroUI.csproj",
+        "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroUI\\IntroUI.csproj",
         "packagesPath": "C:\\Users\\WMWas\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\CodeWorkshop\\csharp\\IntroUI\\obj\\",
+        "outputPath": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WMWas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\IntroLibrary.csproj": {
-                "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\IntroLibrary\\IntroLibrary.csproj"
+              "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\IntroLibrary.csproj": {
+                "projectPath": "E:\\Coding\\CodeWorkshop\\csharp\\csharpWorkshop\\IntroLibrary\\IntroLibrary.csproj"
               }
             }
           }
