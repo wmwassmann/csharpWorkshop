@@ -1,0 +1,9 @@
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csprojAssemblyReference.cache
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfoInputs.cache
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfo.cs
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csproj.CoreCompileInputs.cache
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.deps.json
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.dll
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.pdb
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.dll
+E:\Coding\CodeWorkshop\csharp\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.pdb
